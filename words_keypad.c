@@ -123,7 +123,7 @@ loc=(J+1)%size1;
 printf("%c%c%c",tem[i]tem1[j],tem1[loc]);
 }
 }
-getcg();
+getch();
 }
 
 
